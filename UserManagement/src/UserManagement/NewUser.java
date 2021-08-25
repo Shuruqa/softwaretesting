@@ -1,6 +1,6 @@
 package UserManagement;
 
-public class newuser {
+public class NewUser {
 	
 	/**
 	 * @param args
