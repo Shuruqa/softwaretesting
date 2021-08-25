@@ -1,6 +1,6 @@
 package SearchAssign;
 
-public class binarySearch{
+public class binarysearch{
   
 	 public static void main(String args[]){  
 	        int arr[] = {10,20,30,40,50};  
