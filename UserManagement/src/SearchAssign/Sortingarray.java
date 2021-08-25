@@ -2,15 +2,10 @@
 package SearchAssign;
 
 
-public class SortingArr {
-
-
-
-
+public class Sortingarray {
 
 	public static void main(String args[]){  
 
-		
 		int arr[] = {90,23,101,45,65,23,67,89,34,23};  
 		SortingArr sortarray = new SortingArr();  
 		sortarray.sort(arr, 0, arr.length-1);  
